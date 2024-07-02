@@ -6,14 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'; // Bootstrap CSS
 
 // Firebase configuration
 const firebaseConfig = {
-  
-    apiKey: "AIzaSyDbxfMPYiFedIZUncKKZuzo8MoCpB28xPE",
-    authDomain: "purechatproject.firebaseapp.com",
-    projectId: "purechatproject",
-    storageBucket: "purechatproject.appspot.com",
-    messagingSenderId: "333478395454",
-    appId: "1:333478395454:web:2b9e98974ccf7f2d071b6f",
-    measurementId: "G-DQPY5MFN29"
+
   
 };
 
